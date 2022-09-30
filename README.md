@@ -33,7 +33,7 @@
 
 <h2 align="left">Github Stats</h2>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=sunny4800&theme=great-gatsby" alt="sunny4800" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=sunny4800&theme=great-gatsby" alt="sunny4800" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api?username=sunny4800&show_icons=true&locale=en&theme=great-gatsby" alt="sunny4800" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sunny4800&show_icons=true&locale=en&theme=great-gatsby" alt="sunny4800" /></p>
 

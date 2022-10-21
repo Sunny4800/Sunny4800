@@ -9,7 +9,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunny4800&label=Profile%20views&color=0e75b6&style=flat" alt="sunny4800" /> </p>
 
 <h2 align="center"> About me</h2>
-<p align="center">
+
 - 🌱 I’m currently learning **ReactJS**
 
 - 👨‍💻 All of my projects are available at [https://sunny-singh.netlify.app/#projects](https://sunny-singh.netlify.app/#projects)
@@ -19,7 +19,6 @@
 - 💬 Ask me about **CSS and JavaScript**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/10Rg2dYLDnNHtNTg8i8h7Bjm1Rj4dk8Ou/view](https://drive.google.com/file/d/10Rg2dYLDnNHtNTg8i8h7Bjm1Rj4dk8Ou/view)
-</p>
 
 <h2 align="center">Connect with me:</h2>
 <p align="center">
@@ -33,8 +32,7 @@
 
 <h2 align="center">Github Stats</h2>
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=sunny4800&theme=great-gatsby" alt="sunny4800" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api?username=sunny4800&show_icons=true&locale=en&theme=great-gatsby" alt="sunny4800" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sunny4800&show_icons=true&locale=en&theme=great-gatsby" alt="sunny4800" /></p>
+<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sunny4800&theme=great-gatsby" alt="sunny4800" /></p>
+<p align><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sunny4800&show_icons=true&locale=en&theme=great-gatsby" alt="sunny4800" /></p>
 
 

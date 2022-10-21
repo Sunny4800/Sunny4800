@@ -9,17 +9,19 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunny4800&label=Profile%20views&color=0e75b6&style=flat" alt="sunny4800" /> </p>
 
 <h2 align="center"> About me</h2>
-
-- 🌱 I’m currently learning **ReactJS**
-
-- 👨‍💻 All of my projects are available at [Projects](https://sunny-singh.netlify.app/#projects)
-
+<p align="center">
+- 🌱 I’m currently learning **ReactJS** 
+</p>
+<p align="center">
+- 👨‍💻 All of my projects are available at [Projects](https://sunny-singh.netlify.app/project.html)
+ </p>
+ <p align="center">
 - 📝 I regularly write articles on [Medium](https://medium.com/@sunnysingh3408)
-
+</p>
 - 💬 Ask me about **CSS and JavaScript**
-
+<p align="center">
 - 📄 Checkout my [Resume](https://drive.google.com/file/d/10Rg2dYLDnNHtNTg8i8h7Bjm1Rj4dk8Ou/view)
-
+</p>
 <h2 align="center">Connect with me:</h2>
 <p align="center">
 <a href="https://twitter.com/speedster_3408" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="speedster_3408" height="30" width="40" /></a>&nbsp;

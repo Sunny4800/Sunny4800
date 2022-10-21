@@ -12,13 +12,13 @@
 
 - 🌱 I’m currently learning **ReactJS**
 
-- 👨‍💻 All of my projects are available at [https://sunny-singh.netlify.app/#projects](https://sunny-singh.netlify.app/#projects)
+- 👨‍💻 All of my projects are available at [Projects](https://sunny-singh.netlify.app/#projects)
 
-- 📝 I regularly write articles on [https://medium.com/@sunnysingh3408](https://medium.com/@sunnysingh3408)
+- 📝 I regularly write articles on [Medium](https://medium.com/@sunnysingh3408)
 
 - 💬 Ask me about **CSS and JavaScript**
 
-- 📄 Checkout my [resume](https://drive.google.com/file/d/10Rg2dYLDnNHtNTg8i8h7Bjm1Rj4dk8Ou/view)
+- 📄 Checkout my [Resume](https://drive.google.com/file/d/10Rg2dYLDnNHtNTg8i8h7Bjm1Rj4dk8Ou/view)
 
 <h2 align="center">Connect with me:</h2>
 <p align="center">

@@ -21,7 +21,7 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/10Rg2dYLDnNHtNTg8i8h7Bjm1Rj4dk8Ou/view](https://drive.google.com/file/d/10Rg2dYLDnNHtNTg8i8h7Bjm1Rj4dk8Ou/view)
 
 <h2 align="left">Connect with me:</h2>
-<p align="left">
+<p align="center">
 <a href="https://twitter.com/speedster_3408" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="speedster_3408" height="30" width="40" /></a>&nbsp;
 <a href="https://linkedin.com/in/sunnysingh3408" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sunnysingh3408" height="30" width="40" /></a>&nbsp;
 <a href="https://instagram.com/speedster_3408" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="speedster_3408" height="30" width="40" /></a>&nbsp;

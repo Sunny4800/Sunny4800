@@ -18,6 +18,8 @@
 
 - 💬 Ask me about **CSS and JavaScript**
 
+- 📫 How to reach me **sunnysingh3408@gmail.com**
+
 - 📄 Checkout my [Resume](https://drive.google.com/file/d/1t-sP_HTRVHJioSJKoOANMhPHDpalu3Vj/view?usp=sharing)
 
 <h2 align="center">Connect with me:</h2>

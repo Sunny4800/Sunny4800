@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **CSS and JavaScript**
 
-- 📄 Checkout my [Resume](https://drive.google.com/file/d/10Rg2dYLDnNHtNTg8i8h7Bjm1Rj4dk8Ou/view)
+- 📄 Checkout my [Resume](https://drive.google.com/file/d/1t-sP_HTRVHJioSJKoOANMhPHDpalu3Vj/view?usp=sharing)
 
 <h2 align="center">Connect with me:</h2>
 <p align="center">

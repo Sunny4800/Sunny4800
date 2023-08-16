@@ -24,9 +24,9 @@
 
 <h2 align="center">Connect with me:</h2>
 <p align="center">
-<a href="https://twitter.com/speedster_3408" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="speedster_3408" height="30" width="40" /></a>&nbsp;
-<a href="https://linkedin.com/in/sunnysingh3408" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sunnysingh3408" height="30" width="40" /></a>&nbsp;
-<a href="https://instagram.com/speedster_3408" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="speedster_3408" height="30" width="40" /></a>&nbsp;
+<a href="https://twitter.com/speedster_4800" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="speedster_3408" height="30" width="40" /></a>&nbsp;
+<a href="https://linkedin.com/in/sunny4800" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sunnysingh3408" height="30" width="40" /></a>&nbsp;
+<a href="https://instagram.com/speedster_4800" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="speedster_3408" height="30" width="40" /></a>&nbsp;
 <a href="https://medium.com/@sunnysingh3408" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sunnysingh3408" height="30" width="40" /></a>
 </p>
 <h2 align="center">Languages and Tools:</h2>
